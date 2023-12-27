@@ -2067,11 +2067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMAdmin\\source\\repos\\bookapi\\bookapi\\bookapi.csproj",
+      "projectUniqueName": "C:\\Users\\VMAdmin\\samarthwebapi\\bookapi\\bookapi\\bookapi.csproj",
       "projectName": "bookapi",
-      "projectPath": "C:\\Users\\VMAdmin\\source\\repos\\bookapi\\bookapi\\bookapi.csproj",
+      "projectPath": "C:\\Users\\VMAdmin\\samarthwebapi\\bookapi\\bookapi\\bookapi.csproj",
       "packagesPath": "C:\\Users\\VMAdmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMAdmin\\source\\repos\\bookapi\\bookapi\\obj\\",
+      "outputPath": "C:\\Users\\VMAdmin\\samarthwebapi\\bookapi\\bookapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
